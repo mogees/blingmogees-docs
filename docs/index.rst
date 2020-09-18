@@ -1,9 +1,8 @@
-project-name
+Hypersurfaces Calibration Platform
 ------------
 
-Documents
-=========
 .. toctree::
-   :maxdepth: 16
+   :glob:
 
-   v0.0.0/user-manual
+   docs/latest/user-manual
+   docs/v*
