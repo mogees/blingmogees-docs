@@ -2,7 +2,6 @@ Hypersurfaces Calibration Platform
 ------------
 
 .. toctree::
-   :glob:
+   :maxdepth: 16
 
-   docs/latest/user-manual
-   docs/v*
+   user-manual
