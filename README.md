@@ -7,6 +7,5 @@ After having completed you modification, to generate the TOC,
 go to https://ecotrust-canada.github.io/markdown-toc/
 and follow the instructions
 
-## For more info read the documents here:
+## For more info read the document here:
   * Click [here](http://project-name.readthedocs.io/) for the latest formatted release of the document at readthedocs.io.
-  * Click [here](docs/README.md) for the local version of the document in Markdown format.
