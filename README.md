@@ -1,13 +1,8 @@
 # Hypersurfaces - MVP Calibration
 User Manual Outline
 
-Contents
----------
-- [Section 1](#section-1)
-- [Section 2](#section-2)
+Thi repo will host the manual for the Hypersurfaces Calibration platform
 
-## Section 1
-Section 1
-
-## Section 2
-Section 2
+After having completed you modification, to generate the TOC,
+go to https://ecotrust-canada.github.io/markdown-toc/
+and follow the instructions
