@@ -49,4 +49,3 @@ provide assistance on process, avoid leaving page during flashing etc.
 
 assistance with parameters & their functionality, max number of messages before performance drop, how to rt-test & assess model performance
 
-ai, cities, deep-learning, internet-of-things, sensor-fusion, smart-sensors, vibration, wearables
